@@ -4,7 +4,7 @@
 
 ### DevOps Consultant · SRE · Platform Engineer · MLOps · DevSecOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-narayana-reddy-mandhati-26878a76/)
 [![Email](https://img.shields.io/badge/Email-narayanareddy99910%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narayanareddy99910@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad)
 [![Open to Work](https://img.shields.io/badge/Open%20to-New%20Opportunities-brightgreen?style=for-the-badge)](mailto:narayanareddy99910@gmail.com)
@@ -143,7 +143,7 @@ Elegance Technologies                Software Developer             Aug 2014 –
 
 I'm open to **DevOps / Platform Engineering / SRE / MLOps** roles globally.
 
-📧 [narayanareddy99910@gmail.com](mailto:narayanareddy99910@gmail.com) · 📱 +91-8884199920
+📧 [narayanareddy99910@gmail.com](mailto:narayanareddy99910@gmail.com)
 
 *"Automate everything. Secure everything. Ship faster."*
 
