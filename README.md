@@ -105,19 +105,6 @@ Specialized in building cloud-native platforms on **AWS and Kubernetes**, drivin
 
 ---
 
-## Experience
-
-```
-Altimetrik – Calibo Laza Platform    Staff Engineer - DevOps        Aug 2025 – Present
-TCS on DWP – UK Citizen Platform     DevOps / MLOps Engineer        Sep 2022 – Oct 2023
-KPMG – IGNITE-AI Platform            DevOps Consultant              Jan 2019 – Nov 2020
-Dell R&D – BVT iDRAC-9               Sr. DevOps Engineer            Aug 2017 – Jan 2019
-Cisco – SKY Set-top Box              DevOps Engineer                Jan 2017 – Aug 2017
-Elegance Technologies                Software Developer             Aug 2014 – Dec 2016
-```
-
----
-
 ## Highlights
 
 - **AWS Cloud Governance Platform** — Built a Streamlit-based dashboard governing 30 AWS accounts with Terraform + Jenkins automation, saving $90K/year
